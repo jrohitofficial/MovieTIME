@@ -3,7 +3,7 @@ It is a movie ticket booking website with front-end only. I designed it as a par
 It is available in both dark & light mode.
 
 ## Demo
-http://MovieTIME.infinityfreeapp.com/
+https://getintorj.github.io/MovieTIME/
 
 # Glimpse of the Website
 ## SS1
